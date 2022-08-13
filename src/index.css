@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+.f-rubik{
+	font-family: "Rubik", sans-serif;
+}
+.f-lato{
+	font-family: "Lato", sans-serif;
+}
